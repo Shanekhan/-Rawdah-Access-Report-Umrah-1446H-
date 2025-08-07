@@ -41,4 +41,4 @@ This case study is part of my pivot portfolio. Let’s connect:
 
 ---
 
-> 🚀 _Pro work deserves pro presentation. Upload the PDF, drop in screenshots, and let this repo speak for itself._
+
